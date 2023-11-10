@@ -1,3 +1,5 @@
 # Broca translator
 
 Final project done for the Natural Language Processing (T-725-MALV) during the Fall semester 2023 at Reykjavik University.
+
+Broca's aphasia is an acquired communication disorder characterized by slow, telegraphic speech with relatively intact language comprehension skills. Individuals with Broca's aphasia often struggle to communicate single words or simple phrases and current strategies to assist communication are limited. The purpose of the following project is to take steps toward a machine translation assistive technology in English that is capable of converting the speech of people with Broca's aphasia into a target utterance of typical speech production. Difficulties with pre-processing data and training structure prevented the development of a fully functioning translator. Further research and development are needed in the structure of such a tool.
